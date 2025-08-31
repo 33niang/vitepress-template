@@ -17,5 +17,7 @@
 function hello() {
   console.log('Hello, World!');
 }
+```
+
 ## video
 <video src="/video-1.mp4" controls width="600"></video>
