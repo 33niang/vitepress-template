@@ -1,22 +1,12 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# 欢迎来到我的新网站
 
-hero:
-  name: "vitepress-template"
-  text: "A starter template for VitePress"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Let's Begin
-      link: /quick-start/quick-start
+这是网站的首页。您可以在这里介绍您的项目或您自己。
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+## 开始
 
+点击下面的链接开始浏览：
+
+- [前往指南页面](./guide.md)
+- [前往另一页](./another-page.md)
+
+您可以使用 Markdown 语法自由地编辑这个页面。
